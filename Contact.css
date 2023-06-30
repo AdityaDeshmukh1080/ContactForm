@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(blue,white);
+}
+.div1{
+    width: 250px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+    border: 1px solid white;
+    box-shadow: 10px 10px 10px black;
+  
+}
+h1{
+    color : black ;
+     font-size: larger;
+      text-align:center
+}
+input{
+    margin-top: 0%;
+    padding:.4rem;
+    outline: none;
+    border-radius: 12px;
+}
